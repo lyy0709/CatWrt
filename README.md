@@ -104,12 +104,12 @@ src/gz openwrt_telephony https://catwrt.eu.org/x86_64/telephony
 版本：v23.8
 
 ```mirrors
-src/gz openwrt_core https://catwrt.eu.org/targets/mt798x/filogic/packages
-src/gz openwrt_base https://catwrt.eu.org/mt798x/base
-src/gz openwrt_luci https://catwrt.eu.org/mt798x/luci
-src/gz openwrt_packages https://catwrt.eu.org/mt798x/packages
-src/gz openwrt_routing https://catwrt.eu.org/mt798x/routing
-src/gz openwrt_telephony https://catwrt.eu.org/mt798x/telephony
+src/gz openwrt_core https://catwrt.898689.xyz/targets/mt798x/filogic/packages
+src/gz openwrt_base https://catwrt.898689.xyz/mt798x/base
+src/gz openwrt_luci https://catwrt.898689.xyz/mt798x/luci
+src/gz openwrt_packages https://catwrt.898689.xyz/mt798x/packages
+src/gz openwrt_routing https://catwrt.898689.xyz/mt798x/routing
+src/gz openwrt_telephony https://catwrt.898689.xyz/mt798x/telephony
 ```
 
 **aarch64_generic**
